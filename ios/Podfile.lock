@@ -1,0 +1,21 @@
+PODS:
+  - iOSPhotoEditor (0.5)
+
+DEPENDENCIES:
+  - iOSPhotoEditor (from `https://github.com/prscX/photo-editor`)
+
+EXTERNAL SOURCES:
+  iOSPhotoEditor:
+    :git: https://github.com/prscX/photo-editor
+
+CHECKOUT OPTIONS:
+  iOSPhotoEditor:
+    :commit: 1235678b3e2ed126e20bba88a29d0e72c74e52e2
+    :git: https://github.com/prscX/photo-editor
+
+SPEC CHECKSUMS:
+  iOSPhotoEditor: 0f36d2c064d2999b7f4cd20c9db679581d24f7bf
+
+PODFILE CHECKSUM: 2e85564b08fa676db90d948251ccb0dd32441003
+
+COCOAPODS: 1.7.5

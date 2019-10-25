@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "github:Live2Leave/react-native-photo-editor",
+      "/Users/doit-user/Documents/projects/live2leave-mobile"
+    ]
+  ],
+  "_from": "github:Live2Leave/react-native-photo-editor",
+  "_id": "react-native-photo-editor@github:Live2Leave/react-native-photo-editor#7722db1c476fecbd562c6ba457a623ae38c384ce",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-photo-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:Live2Leave/react-native-photo-editor",
+    "rawSpec": "github:Live2Leave/react-native-photo-editor",
+    "saveSpec": "github:Live2Leave/react-native-photo-editor",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:Live2Leave/react-native-photo-editor#7722db1c476fecbd562c6ba457a623ae38c384ce",
+  "_spec": "github:Live2Leave/react-native-photo-editor",
+  "_where": "/Users/doit-user/Documents/projects/live2leave-mobile",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-photo-editor/issues"
+  },
+  "dependencies": {
+    "pod-installer": "0.0.0"
+  },
+  "description": "React Native: Native Photo Editor",
+  "devDependencies": {
+    "prettier-pack": "0.0.8"
+  },
+  "homepage": "https://github.com/prscX/react-native-photo-editor#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License 2.0",
+  "main": "RNPhotoEditor.js",
+  "name": "react-native-photo-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-photo-editor.git"
+  },
+  "scripts": {
+    "postinstall": "node ../pod-installer/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
+}
